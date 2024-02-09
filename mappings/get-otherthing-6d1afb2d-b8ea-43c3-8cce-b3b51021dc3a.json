@@ -1,0 +1,17 @@
+{
+  "id" : "6d1afb2d-b8ea-43c3-8cce-b3b51021dc3a",
+  "request" : {
+    "url" : "/other/thing",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Hello, world!|| coming from /other/thing",
+    "headers" : {
+      "Content-Type" : "text/plain"
+    }
+  },
+  "uuid" : "6d1afb2d-b8ea-43c3-8cce-b3b51021dc3a",
+  "persistent" : true,
+  "insertionIndex" : 0
+}

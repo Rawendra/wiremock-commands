@@ -1,0 +1,29 @@
+{
+  "id" : "fb7e9a4b-8c30-4287-8b80-327b725eff85",
+  "request" : {
+    "url" : "/other/thing",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "jsonBody" : {
+      "source" : {
+        "id" : "the-wall-street-journal",
+        "name" : "The Wall Street Journal"
+      },
+      "author" : "The Wall Street Journal",
+      "title" : "Stocks to Watch Wednesday: Alibaba, Snap, Uber, Ford - The Wall Street Journal",
+      "description" : null,
+      "url" : "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-07-2024/card/stocks-to-watch-wednesday-nycb-snap-ford-kVltxsVkMgD0Ymx4siKy",
+      "urlToImage" : null,
+      "publishedAt" : "2024-02-07T14:32:00Z",
+      "content" : null
+    },
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "fb7e9a4b-8c30-4287-8b80-327b725eff85",
+  "persistent" : true,
+  "insertionIndex" : 1
+}

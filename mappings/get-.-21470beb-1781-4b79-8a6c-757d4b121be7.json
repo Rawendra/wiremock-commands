@@ -1,0 +1,15 @@
+{
+  "id" : "21470beb-1781-4b79-8a6c-757d4b121be7",
+  "request" : {
+    "urlPattern" : ".*",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "proxyBaseUrl" : "https://newsapi.org/v2"
+  },
+  "uuid" : "21470beb-1781-4b79-8a6c-757d4b121be7",
+  "persistent" : true,
+  "priority" : 100,
+  "insertionIndex" : 5
+}

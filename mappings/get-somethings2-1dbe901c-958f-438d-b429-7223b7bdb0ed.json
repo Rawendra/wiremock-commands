@@ -1,0 +1,17 @@
+{
+  "id" : "1dbe901c-958f-438d-b429-7223b7bdb0ed",
+  "request" : {
+    "url" : "/some/things2",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Hello, world!222",
+    "headers" : {
+      "Content-Type" : "text/plain"
+    }
+  },
+  "uuid" : "1dbe901c-958f-438d-b429-7223b7bdb0ed",
+  "persistent" : true,
+  "insertionIndex" : 3
+}

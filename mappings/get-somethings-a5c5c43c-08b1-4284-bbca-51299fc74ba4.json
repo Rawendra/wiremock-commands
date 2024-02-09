@@ -1,0 +1,17 @@
+{
+  "id" : "a5c5c43c-08b1-4284-bbca-51299fc74ba4",
+  "request" : {
+    "url" : "/some/things",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Hello, world!",
+    "headers" : {
+      "Content-Type" : "text/plain"
+    }
+  },
+  "uuid" : "a5c5c43c-08b1-4284-bbca-51299fc74ba4",
+  "persistent" : true,
+  "insertionIndex" : 2
+}
